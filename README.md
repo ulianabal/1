@@ -1,2 +1,1 @@
-# simbirsoft
-Simbirsoft qa practicum
+
